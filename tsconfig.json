@@ -10,7 +10,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
-    "allowImportingTsExtensions": true,
+  
     
   },
   "include": ["src"],
